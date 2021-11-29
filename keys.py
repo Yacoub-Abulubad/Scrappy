@@ -1,0 +1,5 @@
+api = 'XXXXXXXXXXXXX'
+api_s = 'XXXXXXXXXXXXX'
+access = 'XXXXXXXXXXXXX'
+access_s = 'XXXXXXXXXXXXX'
+bearer = 'XXXXXXXXXXXXX'
